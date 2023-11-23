@@ -23,6 +23,7 @@ llama-index cohere datasets pandas
 **Install Required Packages:**
 
 Install Python (if not already installed).
+
 **Create a virtual environment (optional but recommended):**
 
 python -m venv myenv
@@ -39,6 +40,7 @@ pip install pandas transformers scikit-learn numpy qdrant-client flask openai
 **Download BERT Model Weights:**
 
 The code uses the 'bert-base-uncased' model. It will automatically download the model weights the first time you run the script that initializes the BERT model and tokenizer.
+
 **Set Up Environment Variables:**
 
 Before running the code, ensure you've set the environment variables for OpenAI, Cohere, and Qdrant. Replace <YOUR_OPENAI_API_KEY>, <YOUR_COHERE_API_KEY>, and <YOUR_QDRANT_API_KEY> with your actual API keys.
