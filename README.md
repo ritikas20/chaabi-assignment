@@ -1,12 +1,20 @@
 # Requirements
 flask
+
 pandas
+
 transformers
+
 scikit-learn
+
 numpy
+
 qdrant-client
+
 openai
+
 os
+
 llama-index cohere datasets pandas
 'rich[jupyter]'
 
