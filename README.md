@@ -59,7 +59,9 @@ Adjust the path if necessary or ensure the CSV file exists in the mentioned loca
 Run the Flask app using the provided script.
 
 # Output of sample query:
+
 **Please refer to the attached image**
+
 write your query: write details of Garlic Oil - Vegetarian Capsule 500 mg
 
 Answer:
