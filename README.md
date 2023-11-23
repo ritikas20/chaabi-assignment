@@ -1,4 +1,3 @@
-# chaabi-assignment
 # Requirements
 flask
 pandas
