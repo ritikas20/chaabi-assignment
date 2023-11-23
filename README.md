@@ -57,3 +57,15 @@ Adjust the path if necessary or ensure the CSV file exists in the mentioned loca
 **Run the Flask App:**
 
 Run the Flask app using the provided script.
+
+# Output of sample query:
+**Please refer to the attached image**
+write your query: write details of Garlic Oil - Vegetarian Capsule 500 mg
+
+Answer:
+
+The Garlic Oil - Vegetarian Capsule 500 mg is a product under the Beauty & Hygiene category and specifically falls under the Hair Care sub-category. It is a product by the brand Sri Sri Ayurveda. The sale price of this product is 220 INR, while the market price is also 220 INR.
+
+This capsule contains Garlic Oil, which offers several health benefits. It is known to aid in proper digestion, help maintain optimum cholesterol levels, support cardiovascular health, and also help in building immunity. The capsule is suitable for vegetarians.
+
+For more beauty tips, tricks, and information, you can visit the website https://bigbasket.blog/.
